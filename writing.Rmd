@@ -11,7 +11,7 @@ I find the usual numbering-in-reverse-chronological-ordering of journal articles
 
 ### Wildlife Monitoring and Assessment
 
-[`r icons::fontawesome("file-pdf")`](publications/smith-etal-2023-spatial.pdf) Smith AC, Binley A, Daly L, **Edwards BPM**, Ethier D, Frei B, Iles D, Meehan TD, Michel NL, Smith PA. (2023) Spatially explicit Bayesian hierarchical models for avian population status and trends. *EcoEvoRxiv* (preprint). https://doi.org/10.32942/X2088D 
+[`r icons::fontawesome("file-pdf")`](publications/smith-etal-2023-spatial.pdf) Smith AC, Binley A, Daly L, **Edwards BPM**, Ethier D, Frei B, Iles D, Meehan TD, Michel NL, Smith PA. (2023) Spatially explicit Bayesian hierarchical models improve estimates of avian population status and trends. To appear in *Ornithological Applications*. Preprint: https://doi.org/10.32942/X2088D 
 
 [`r icons::fontawesome("file-pdf")`](publications/soroye-etal-2022-citsci.pdf) Soroye P, **Edwards BPM**, Buxton RT, Ethier JP, Frempong-Manso A, Keefe H, Berberi A, Roach-Krajewski M, Binley AD, Vincent JG, Cooke SJ, Bennett JR. (2022). The risks and rewards of community science for threatened species monitoring. *Conservation Science and Practice* 4(9), e12788. https://doi.org/10.1111/csp2.12788 
 
@@ -43,7 +43,7 @@ I find the usual numbering-in-reverse-chronological-ordering of journal articles
 
 ### Open Science
 
-[`r icons::fontawesome("file-pdf")`](publications/braga-etal-2023-github.pdf) Braga PHP, Hébert K, Hudgins EJ, Scott ER, **Edwards BPM**, Sánchez-Reyes LL, Grainger MJ, Foroughirad V, Hilleman F, Binley AD, Brookson CB, Gaynor KM, Sabet SS, Güncan A, Weierbach H, Gomes DGE, Crystal-Ornelas R. (2023). Not Just for Programmers: How Github Can Accelerate Collaborative and Reproducible Research in Ecology and Evolution. *Methods in Ecology and Evolution*. https://doi.org/10.1111/2041-210X.14108
+[`r icons::fontawesome("file-pdf")`](publications/braga-etal-2023-github.pdf) Braga PHP, Hébert K, Hudgins EJ, Scott ER, **Edwards BPM**, Sánchez-Reyes LL, Grainger MJ, Foroughirad V, Hilleman F, Binley AD, Brookson CB, Gaynor KM, Sabet SS, Güncan A, Weierbach H, Gomes DGE, Crystal-Ornelas R. (2023). Not Just for Programmers: How Github Can Accelerate Collaborative and Reproducible Research in Ecology and Evolution. *Methods in Ecology and Evolution* 14(6):1364-1380. https://doi.org/10.1111/2041-210X.14108
 
 [`r icons::fontawesome("file-pdf")`](publications/binley-etal-2023-data.pdf) Binley AD, **Edwards BPM**, Dansereau G, Knight EC, Momeni-Dehaghi I. (2023). Minimizing Data Waste: Conservation in the Big Data Era. *Bulletin of the Ecological Society of America* 104(2):e02056. https://doi.org/10.1002/bes2.2056  
 
