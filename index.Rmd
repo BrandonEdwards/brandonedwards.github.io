@@ -5,4 +5,4 @@ output:
     includes:
       in_header: index-cover.html
 ---
-Hello! I'm Brandon Edwards. I'm a statistical ecologist, amateur naturalist, and bird photographer, currently pursuing a PhD at Carleton University. [More about me.](about.html)
+Hello! I'm Brandon Edwards. I'm a statistical ecologist, amateur naturalist, and bird photographer. I am currently the Ecological Statistician at Ducks Unlimited Canada's [Institute for Wetland & Waterfowl Research](https://www.ducks.ca/iwwr/).

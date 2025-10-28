@@ -13,9 +13,9 @@ navbar:
     - text: "Writing"
       icon: fa-pencil
       href: writing.html
-    - text: "CV"
-      icon: fa-file
-      href: cv_brandon_edwards.pdf
+   # - text: "CV"
+  #    icon: fa-file
+  #    href: cv_brandon_edwards.pdf
   right:
     - icon: fa-github
       href: https://github.com/BrandonEdwards      # CHANGE HERE 

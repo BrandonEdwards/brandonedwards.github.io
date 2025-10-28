@@ -8,7 +8,9 @@ output:
 
 ## Statistical Ecologist
 
-I am currently an PhD Candidate at Carleton University, co-supervised by Drs [Adam Smith](https://carleton.ca/biology/people/adam-smith/) and [Joe Bennett](https://carleton.ca/biology/people/joseph-bennett/). My research focuses on broad-scale estimates and drivers of detectability in North American landbirds. I am the lead analyst on the [NA-POPS project](http://na-pops.org/), which is seeking to develop an open-access database of detectability functions to account for biases in bird detectability during on- and off-road point count bird surveys. I use R and Stan to develop multi-species Bayesian hierarchical removal and distance models to generate estimates of a bird species' availability and detectability, given a number of seasonal and spatial covariates. 
+I currently work at Ducks Unlimited Canada, serving as an Ecological Statistician.  
+
+Previously, I completed my PhD at Carleton University, co-supervised by Drs [Adam Smith](https://carleton.ca/biology/people/adam-smith/) and [Joe Bennett](https://carleton.ca/biology/people/joseph-bennett/). My research focused on broad-scale estimates and drivers of detectability in North American landbirds. I was the lead analyst on the [NA-POPS project](http://na-pops.org/), which is seeking to develop an open-access database of detectability functions to account for biases in bird detectability during on- and off-road point count bird surveys. I used R and Stan to develop multi-species Bayesian hierarchical removal and distance models to generate estimates of a bird species' availability and detectability, given a number of seasonal and spatial covariates. 
 
 In 2020, I completed my **BSc in Mathematical Science** in the *Statistics* stream, with an emphasis in Computer Science at the [University of Guelph](https://www.uoguelph.ca/). My honours thesis, supervised by [Dr Daniel Gillis](https://danielgillis.wordpress.com/), compared typologies of the Deviance Information Criterion (DIC) within the context of generalized spatial Poisson mixture models. 
 
@@ -24,4 +26,4 @@ While statistics and computer science will be at the forefront of my academic re
 
 ## Contact Me
 
-**Email**: brandonedwards3@cmail.carleton.ca
+**Email**: b UNDERSCORE edwards AT ducks DOT ca
